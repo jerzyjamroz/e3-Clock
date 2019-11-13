@@ -1,4 +1,15 @@
-*~  
+*~
+/bin/
+/db/
+/dbd/
+/include/
+/lib/
+/cfg/
+O.*/
+html/
+rtf
+*.local
+
 *-dev
 modules.order
 Module.symvers
