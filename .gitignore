@@ -9,6 +9,7 @@ O.*/
 html/
 rtf
 *.local
+.DS_Store
 
 *-dev
 modules.order
